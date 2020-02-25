@@ -79,6 +79,15 @@ namespace ResxMergeTest {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string ASSDSADSDA {
+            get {
+                return ResourceManager.GetString("ASSDSADSDA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ?.
         /// </summary>
         internal static string B {
@@ -111,6 +120,15 @@ namespace ResxMergeTest {
         internal static string C {
             get {
                 return ResourceManager.GetString("C", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string CVBCVBCVBCV {
+            get {
+                return ResourceManager.GetString("CVBCVBCVBCV", resourceCulture);
             }
         }
         
@@ -187,11 +205,29 @@ namespace ResxMergeTest {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string RTYRTYTRYRT {
+            get {
+                return ResourceManager.GetString("RTYRTYTRYRT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ?.
         /// </summary>
         internal static string Syf {
             get {
                 return ResourceManager.GetString("Syf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string XSADSADASD {
+            get {
+                return ResourceManager.GetString("XSADSADASD", resourceCulture);
             }
         }
     }
