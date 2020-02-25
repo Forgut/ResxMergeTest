@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResxMergeTest", "ResxMergeTest\ResxMergeTest.csproj", "{0035E6F5-0B6F-4774-8568-80F2B6D9899D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResxMergeTest", "ResxMergeTest\ResxMergeTest.csproj", "{0035E6F5-0B6F-4774-8568-80F2B6D9899D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+		RESX_SortFileContentOnSave = True
 		SolutionGuid = {B60539FA-4A5C-405C-B06F-1FC6853F90FD}
 	EndGlobalSection
 EndGlobal
