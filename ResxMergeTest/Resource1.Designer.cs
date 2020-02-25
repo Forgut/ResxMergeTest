@@ -149,5 +149,14 @@ namespace ResxMergeTest {
                 return ResourceManager.GetString("J", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string Syf {
+            get {
+                return ResourceManager.GetString("Syf", resourceCulture);
+            }
+        }
     }
 }
