@@ -59,5 +59,41 @@ namespace ResxMergeTest {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string A {
+            get {
+                return ResourceManager.GetString("A", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string B {
+            get {
+                return ResourceManager.GetString("B", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string C {
+            get {
+                return ResourceManager.GetString("C", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string D {
+            get {
+                return ResourceManager.GetString("D", resourceCulture);
+            }
+        }
     }
 }
