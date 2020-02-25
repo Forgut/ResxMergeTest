@@ -120,7 +120,19 @@
   <data name="A" xml:space="preserve">
     <value>?</value>
   </data>
+  <data name="Abrakadabra" xml:space="preserve">
+    <value>?</value>
+  </data>
   <data name="B" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Bababa" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Burdel" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="C" xml:space="preserve">
     <value>?</value>
   </data>
   <data name="D" xml:space="preserve">
@@ -135,31 +147,19 @@
   <data name="G" xml:space="preserve">
     <value>?</value>
   </data>
-  <data name="Burdel" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="H" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="J" xml:space="preserve">
     <value>?</value>
   </data>
   <data name="I" xml:space="preserve">
     <value>?</value>
   </data>
-  <data name="C" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="Syf" xml:space="preserve">
+  <data name="J" xml:space="preserve">
     <value>?</value>
   </data>
   <data name="Kon" xml:space="preserve">
     <value>?</value>
   </data>
-  <data name="Abrakadabra" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="Bababa" xml:space="preserve">
+  <data name="Syf" xml:space="preserve">
     <value>?</value>
   </data>
 </root>
