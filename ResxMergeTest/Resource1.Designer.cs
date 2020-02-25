@@ -162,6 +162,15 @@ namespace ResxMergeTest {
         /// <summary>
         ///   Looks up a localized string similar to ?.
         /// </summary>
+        internal static string Kon {
+            get {
+                return ResourceManager.GetString("Kon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
         internal static string Syf {
             get {
                 return ResourceManager.GetString("Syf", resourceCulture);
