@@ -72,9 +72,27 @@ namespace ResxMergeTest {
         /// <summary>
         ///   Looks up a localized string similar to ?.
         /// </summary>
+        internal static string Abrakadabra {
+            get {
+                return ResourceManager.GetString("Abrakadabra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
         internal static string B {
             get {
                 return ResourceManager.GetString("B", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ?.
+        /// </summary>
+        internal static string Bababa {
+            get {
+                return ResourceManager.GetString("Bababa", resourceCulture);
             }
         }
         

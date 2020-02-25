@@ -123,7 +123,6 @@
   <data name="B" xml:space="preserve">
     <value>?</value>
   </data>
-
   <data name="D" xml:space="preserve">
     <value>?</value>
   </data>
@@ -155,6 +154,12 @@
     <value>?</value>
   </data>
   <data name="Kon" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Abrakadabra" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Bababa" xml:space="preserve">
     <value>?</value>
   </data>
 </root>
